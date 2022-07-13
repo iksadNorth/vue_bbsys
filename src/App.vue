@@ -1,15 +1,20 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <insta_header />
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <insta_footer />
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import insta_header from './components/Header.vue'
+import insta_footer from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    insta_header,
+    insta_footer,
   }
 }
 </script>

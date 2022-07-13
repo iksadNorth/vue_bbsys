@@ -8,12 +8,12 @@
       <input type="검색">
     </div>
     <div class="col">
-      <button><img src="../assets/icon_home.png" alt=""></button>
-      <button><img src="../assets/icon_fly.png" alt=""></button>
-      <button><img src="../assets/icon_plus.png" alt=""></button>
-      <button><img src="../assets/icon_compass.png" alt=""></button>
-      <button><img src="../assets/icon_heart.png" alt=""></button>
-      <button><img src="../assets/icon_account.png" alt=""></button>
+      <img src="../assets/icon_home.png" alt="">
+      <img src="../assets/icon_fly.png" alt="">
+      <img src="../assets/icon_plus.png" alt="">
+      <img src="../assets/icon_compass.png" alt="">
+      <img src="../assets/icon_heart.png" alt="">
+      <img src="../assets/icon_account.png" alt="">
     </div>
     <div class="col"></div>
   </div>
